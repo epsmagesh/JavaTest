@@ -1,7 +1,7 @@
 package JavaTest.JavaTest;
 
 /**
- * Hello world!
+ * Hello world! Tested
  *
  */
 public class App {
